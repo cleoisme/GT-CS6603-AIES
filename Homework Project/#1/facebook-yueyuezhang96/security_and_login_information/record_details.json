@@ -1,0 +1,570 @@
+{
+  "admin_records_v2": [
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1663058025,
+        "ip_address": "191.101.132.139",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Mobile/15E148 Safari/604.1",
+        "datr_cookie": "vyK6********************"
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1663057845,
+        "ip_address": "191.101.132.6",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+        "datr_cookie": "rD8g********************"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1662953558,
+        "ip_address": "185.192.68.100",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "datr_cookie": "9qce********************"
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1662953454,
+        "ip_address": "185.192.68.100",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "datr_cookie": "3Kce********************"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1643503200,
+        "ip_address": "216.208.180.170",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "datr_cookie": "Dt71********************"
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1643503129,
+        "ip_address": "216.208.180.170",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "datr_cookie": "Dt71********************"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1622101451,
+        "ip_address": "2001:0569:7fda:7f00:fd2b:21b5:9ea7:5444",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/90.0.4430.216 Mobile/15E148 Safari/604.1",
+        "datr_cookie": "jE2v********************"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1615265730,
+        "ip_address": "2001:0569:7bc9:f600:3176:488c:90ed:8782",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 177.0.0.20.117 (iPhone13,3; iOS 14_4; en_CA; en-US; scale=3.00; 1170x2532; 275424340)",
+        "datr_cookie": "qBH4********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "+17788613722",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1578610285,
+        "ip_address": "51.79.19.31",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1578610123,
+        "ip_address": "51.79.19.31",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Account de- or re-activated",
+      "session": {
+        "created_timestamp": 1568174409,
+        "ip_address": "2001:0569:7bc3:9f00:6869:cd77:b5f8:ac7b",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",
+        "datr_cookie": "1w93********************"
+      }
+    },
+    {
+      "event": "Account de- or re-activated",
+      "session": {
+        "created_timestamp": 1568084292,
+        "ip_address": "2001:0569:7bc3:9f00:a88e:6d0f:ddd5:4587",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",
+        "datr_cookie": "1w93********************"
+      }
+    },
+    {
+      "event": "Account de- or re-activated",
+      "session": {
+        "created_timestamp": 1568084200,
+        "ip_address": "2001:0569:7bc3:9f00:c4b5:f50c:b07e:4354",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/237.0.0.57.119;FBBV/170644084;FBDV/iPhone9,2;FBMD/iPhone;FBSN/iOS;FBSV/12.4;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0;FBCR/Freedom Mobile]",
+        "datr_cookie": "njuG********************"
+      }
+    },
+    {
+      "event": "Account de- or re-activated",
+      "session": {
+        "created_timestamp": 1568084083,
+        "ip_address": "2001:0569:7bc3:9f00:a88e:6d0f:ddd5:4587",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",
+        "datr_cookie": "1w93********************"
+      }
+    },
+    {
+      "event": "Changing Group Admin",
+      "session": {
+        "created_timestamp": 1524948348,
+        "ip_address": "70.79.144.8",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+        "datr_cookie": "PrCV********************"
+      }
+    },
+    {
+      "event": "Changing Group Admin",
+      "session": {
+        "created_timestamp": 1524948342,
+        "ip_address": "70.79.144.8",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+        "datr_cookie": "PrCV********************"
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1519982091,
+        "ip_address": "128.189.170.138",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36",
+        "datr_cookie": "PrCV********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "forest-zhang@alumni.ubc.ca",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1502264830,
+        "ip_address": "80.26.73.135",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1502264748,
+        "ip_address": "80.26.73.135",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1501964788,
+        "ip_address": "90.77.31.152",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1501964618,
+        "ip_address": "90.77.31.152",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Changing Group Admin",
+      "session": {
+        "created_timestamp": 1455564237,
+        "ip_address": "140.254.77.228",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 [FBAN/FBIOS;FBAV/48.0.0.64.162;FBBV/21316239;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.2.1;FBSS/2; FBCR/fido;FBID/phone;FBLC/en_US;FBOP/5]",
+        "datr_cookie": "zCXC********************"
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1445720877,
+        "ip_address": "128.189.170.138",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7",
+        "datr_cookie": "qXUq********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "forest-zhang@alumni.ubc.ca",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1445720658,
+        "ip_address": "128.189.170.138",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7",
+        "datr_cookie": "qXUq********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "forest-zhang@ubc.ca",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1409813479,
+        "ip_address": "128.189.170.67",
+        "user_agent": "Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 [FBAN/FBIOS;FBAV/14.0.0.25.26;FBBV/4017285;FBDV/iPad2,7;FBMD/iPad;FBSN/iPhone OS;FBSV/7.1.2;FBSS/1; FBCR/;FBID/tablet;FBLC/en_US;FBOP/1]",
+        "datr_cookie": "5gsI********************"
+      }
+    },
+    {
+      "event": "Native Name Change",
+      "session": {
+        "created_timestamp": 1405028468,
+        "ip_address": "128.189.75.8",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4",
+        "datr_cookie": "1w7_********************"
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1404771720,
+        "ip_address": "128.189.75.31",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4",
+        "datr_cookie": "1w7_********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "forest-zhang@hotmail.com",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1404771709,
+        "ip_address": "128.189.75.31",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4",
+        "datr_cookie": "1w7_********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "forest-zhang@hotmail.com",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Name Change",
+      "session": {
+        "created_timestamp": 1404771676,
+        "ip_address": "128.189.75.31",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4",
+        "datr_cookie": "1w7_********************"
+      },
+      "extra_info": {
+        "old_name": "Yueyue Zhang",
+        "new_name": "Cleo Zhang",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1401671639,
+        "ip_address": "128.189.243.163",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 [FBAN/FBIOS;FBAV/10.0.0.26.21;FBBV/2441354;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.1.1;FBSS/2; FBCR/fido;FBID/phone;FBLC/zh_CN;FBOP/5]",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1400557387,
+        "ip_address": "128.189.170.21",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 [FBAN/FBIOS;FBAV/10.0.0.26.21;FBBV/2441354;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.1;FBSS/2; FBCR/fido;FBID/phone;FBLC/zh_CN;FBOP/5]",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1397280570,
+        "ip_address": "128.189.144.228",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 [FBAN/FBIOS;FBAV/8.0.0.28.18;FBBV/1665515;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.1;FBSS/2; FBCR/fido;FBID/phone;FBLC/zh_CN;FBOP/5]",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1395814224,
+        "ip_address": "128.189.144.228",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 [FBAN/FBIOS;FBAV/8.0.0.28.18;FBBV/1665515;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.1;FBSS/2; FBCR/fido;FBID/phone;FBLC/zh_CN;FBOP/5]",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1394699416,
+        "ip_address": "128.189.144.108",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 [FBAN/FBIOS;FBAV/7.0.0.17.1;FBBV/1325030;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.1;FBSS/2; FBCR/fido;FBID/phone;FBLC/zh_CN;FBOP/5]",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1393904365,
+        "ip_address": "128.189.144.228",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/7.0.0.17.1;FBBV/1325030;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/fido;FBID/phone;FBLC/zh_CN;FBOP/5]",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1392696437,
+        "ip_address": "64.141.7.66",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1390167497,
+        "ip_address": "128.189.240.16",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1390167414,
+        "ip_address": "128.189.240.16",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1388865505,
+        "ip_address": "108.180.82.248",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1388196599,
+        "ip_address": "174.6.128.44",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1386915522,
+        "ip_address": "128.189.144.228",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1386140419,
+        "ip_address": "128.189.244.83",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1384542761,
+        "ip_address": "128.189.244.166",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1384328693,
+        "ip_address": "128.189.246.134",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1382599559,
+        "ip_address": "128.189.245.249",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1381125304,
+        "ip_address": "128.189.232.136",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1381125274,
+        "ip_address": "128.189.232.136",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1379293055,
+        "ip_address": "128.189.241.63",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Security question and response changed",
+      "session": {
+        "created_timestamp": 1378836587,
+        "ip_address": "206.87.110.223",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1378836568,
+        "ip_address": "206.87.110.223",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1377560311,
+        "ip_address": "75.157.216.182",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1375593362,
+        "ip_address": "75.156.48.56",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Username",
+      "session": {
+        "created_timestamp": 1375593362,
+        "ip_address": "75.156.48.56",
+        "user_agent": "",
+        "datr_cookie": ""
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "yueyue.zhang.96",
+        "old_email": "",
+        "new_email": "",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Add Phone Number",
+      "session": {
+        "created_timestamp": 1375593359,
+        "ip_address": "75.156.48.56",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    }
+  ]
+}

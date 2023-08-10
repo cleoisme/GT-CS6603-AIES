@@ -1,0 +1,20 @@
+{
+  "account_status_changes_v2": [
+    {
+      "status": "Account reactivated",
+      "timestamp": 1568174409
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1568084292
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1568084200
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1568084083
+    }
+  ]
+}

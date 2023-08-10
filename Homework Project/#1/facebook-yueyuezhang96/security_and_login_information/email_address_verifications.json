@@ -1,0 +1,14 @@
+{
+  "contact_verifications_v2": [
+    {
+      "contact": "forest-zhang@hotmail.com",
+      "contact_type": 2,
+      "verification_time": 1404771720
+    },
+    {
+      "contact": "+17788613722",
+      "contact_type": 1,
+      "verification_time": 1397164282
+    }
+  ]
+}

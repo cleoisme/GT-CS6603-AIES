@@ -1,0 +1,60 @@
+{
+  "devices_v2": [
+    {
+      "type": "iPhone13,3",
+      "os": "iPhone OS 15.6.1",
+      "update_time": 1674029539,
+      "advertiser_id": "827cbdf8-3512-4ee9-ab51-eb51fadd5977",
+      "redact_tokens": [
+        "48f8********************",
+        "8e8c********************",
+        "d3d5********************",
+        "c46f********************"
+      ],
+      "push_tokens": [
+        {
+          "disabled": false,
+          "client_update_time": 1667404095,
+          "creation_time": 1615265552,
+          "app_version": "383.0.0.37.110",
+          "locale": "en_US",
+          "os_version": "15.6.1",
+          "token": "48f8********************",
+          "device_id": "ABD14909-C546-46E1-9E22-BB1F73E7D338"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1667404095,
+          "creation_time": 1612419290,
+          "app_version": "383.0.0.37.110",
+          "locale": "en_US",
+          "os_version": "15.6.1",
+          "token": "8e8c********************",
+          "device_id": "ABD14909-C546-46E1-9E22-BB1F73E7D338"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1667103760,
+          "creation_time": 1663522941,
+          "app_version": "390.1.0.38.101",
+          "locale": "en_US",
+          "os_version": "15.6.1",
+          "token": "d3d5********************",
+          "device_id": "ABD14909-C546-46E1-9E22-BB1F73E7D338"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1667103760,
+          "creation_time": 1634776625,
+          "app_version": "390.1.0.38.101",
+          "locale": "en_US",
+          "os_version": "15.6.1",
+          "token": "c46f********************",
+          "device_id": "ABD14909-C546-46E1-9E22-BB1F73E7D338"
+        }
+      ],
+      "family_device_id": "67DC8171****************************",
+      "device_locale": "en"
+    }
+  ]
+}
